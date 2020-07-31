@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Spotify's song features analysis
+*[Ramón Navarro Barcelo]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona & 31/07/2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,26 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+My project focuses on Spotify features for each song and if we are able to predict the next Grammy winner for best song of the year with this information.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+Are grammy winning songs equal in terms of Spotify features versus regular songs?
+Is it possible to predict the next Best song of the year based on Spotify features?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+I used a CSV containiing +160.000 songs that I found in Kaggle.
+For web scrapping, I used Selenium to get the names of the last Grammy winners for Best song of the year from 1990-2020
+Finally, I used Spotify API to get information needed for specific grammy winners that were not in the csv
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+I first planned my project, which I followed very strictically and then I executed the steps that I had marked in Trello
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+I used Trello to organize myself in order to follow a step by step approach to follow a path in order to finish the project in a structured way.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/ramonnavarrob/Project-Week-5-Your-Own-Project)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/rnhJmbV3/project-4)  
